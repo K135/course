@@ -7,20 +7,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://apries.com/basket-ball.html</loc>
-    <lastmod>2018-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://apries.com/images/ezgif-4-7b444ad6bf-min.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://apries.com/images/webpnet-resizeimage%20(2).png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://apries.com/ethical-hacking.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +23,7 @@
   </url>
   <url>
     <loc>http://apries.com/programming-language.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -484,7 +472,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://apries.com/graphic.html</loc>
+    <loc>http://apries.com/basket-ball.html</loc>
     <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -724,7 +712,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://apries.com/web1.html</loc>
+    <loc>http://apries.com/graphic.html</loc>
     <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -844,7 +832,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://apries.com/hts2.html</loc>
+    <loc>http://apries.com/web1.html</loc>
     <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -904,8 +892,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://apries.com/instply.html</loc>
-    <lastmod>2018-09-28</lastmod>
+    <loc>http://apries.com/hts2.html</loc>
+    <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -918,6 +906,18 @@
   <url>
     <loc>http://apries.com/hts1.html</loc>
     <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://apries.com/images/ezgif-4-7b444ad6bf-min.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apries.com/images/webpnet-resizeimage%20(2).png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://apries.com/instply.html</loc>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -950,11 +950,5 @@
     <image:image>
       <image:loc>http://apries.com/images/webpnet-resizeimage%20(2).png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://apries.com/assets/ezgif.com-optimize.gif</loc>
-    <lastmod>2018-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
